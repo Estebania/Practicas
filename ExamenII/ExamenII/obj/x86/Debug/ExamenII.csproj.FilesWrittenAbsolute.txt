@@ -1,0 +1,5 @@
+/home/hikary/ExamenII/ExamenII/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hikary/ExamenII/ExamenII/bin/Debug/ExamenII.exe.mdb
+/home/hikary/ExamenII/ExamenII/bin/Debug/ExamenII.exe
+/home/hikary/ExamenII/ExamenII/obj/x86/Debug/ExamenII.exe
+/home/hikary/ExamenII/ExamenII/obj/x86/Debug/ExamenII.exe.mdb
