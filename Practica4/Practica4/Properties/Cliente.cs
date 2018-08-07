@@ -158,7 +158,7 @@ namespace Practica4
 
 				menu (cli);
 			} else {
-				Console.ReadKey ();
+				Environment.Exit(0);
 			}
 		}
 
