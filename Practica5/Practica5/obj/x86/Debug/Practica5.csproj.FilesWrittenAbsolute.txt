@@ -1,0 +1,5 @@
+/home/hikary/Practica5/Practica5/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/hikary/Practica5/Practica5/bin/Debug/Practica5.exe.mdb
+/home/hikary/Practica5/Practica5/bin/Debug/Practica5.exe
+/home/hikary/Practica5/Practica5/obj/x86/Debug/Practica5.exe
+/home/hikary/Practica5/Practica5/obj/x86/Debug/Practica5.exe.mdb
